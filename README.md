@@ -69,7 +69,7 @@ Open 2 terminals in separate windows/tabs.
 
 Terminal 1: Setting Up Backend 
 ```sh
-cd backend
+cd server
 npm install
 npm start
 ```
@@ -88,11 +88,11 @@ Instead of this link write your database link.
 
 Terminal 2: Setting Up Frontend
 ```sh
-cd frontend
+cd client
 npm install
 npm start
 ```
-Now, navigate to `localhost:3000` in your browser. 
+Now, navigate to `localhost:5173` in your browser. 
 The Backend API will be running at `localhost:5000`.
 <br>
 # Error Solution
