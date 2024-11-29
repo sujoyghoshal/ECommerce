@@ -27,7 +27,7 @@ ECommerce is a modern e-commerce platform built using the MERN (MongoDB, Express
 - **Seller Dashboard:** 
   - Sellers have access to a dashboard where they can add, update, and delete products. They can view sales data and customer interactions for better store management.
 
-![Admin Panel](./frontend/images/Admin.png)
+![Admin Panel](./client/UI/admin.png)
 
 - **Order Management:** 
   - Sellers can track and update the status of orders, ensuring smooth and timely delivery.
