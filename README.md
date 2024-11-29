@@ -1,14 +1,14 @@
-<h1 align="center"> 🛒 SHOPSITE: E-commerce Platform </h1>
+<h1 align="center"> 🛒 ECommerce:  Platform </h1>
 
 ## About
 
-ShopSite is a modern e-commerce platform built using the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a seamless shopping experience for customers while equipping sellers with the necessary tools to manage their products and sales efficiently.
+ECommerce is a modern e-commerce platform built using the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a seamless shopping experience for customers while equipping sellers with the necessary tools to manage their products and sales efficiently.
 
 ## Deployment
 - **Frontend:** Hosted on Vercel [https://shopsite-frontend.vercel.app/](https://shopsite-frontend.vercel.app/)
 - **Backend:** Hosted on Render [https://shopsite-server.onrender.com/](https://shopsite-server.onrender.com/)
 
-![ShopSite Dashboard](./frontend/images/Dashboard.png)
+![ Dashboard](./client/UI/user-interface.png)
 
 ## Features
 
