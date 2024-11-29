@@ -5,8 +5,8 @@
 ECommerce is a modern e-commerce platform built using the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a seamless shopping experience for customers while equipping sellers with the necessary tools to manage their products and sales efficiently.
 
 ## Deployment
-- **Frontend:** Hosted on Vercel [https://shopsite-frontend.vercel.app/](https://shopsite-frontend.vercel.app/)
-- **Backend:** Hosted on Render [https://shopsite-server.onrender.com/](https://shopsite-server.onrender.com/)
+- **Frontend:** Hosted on Vercel 
+- **Backend:** Hosted on Render [https://ecommerce-server-evzy.onrender.com/](https://ecommerce-server-evzy.onrender.com/)
 
 ![ Dashboard](./client/UI/user-interface.png)
 
