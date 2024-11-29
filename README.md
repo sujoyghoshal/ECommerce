@@ -35,7 +35,7 @@ ECommerce is a modern e-commerce platform built using the MERN (MongoDB, Express
 - **Secure Payment Integration:** 
   - Integrated with Razorpay for secure payment processing.
 
-![Payment Section](./frontend/images/payment.png)
+![Payment Section](./client/UI/payment.png)
 
 ## Technologies Used
 
